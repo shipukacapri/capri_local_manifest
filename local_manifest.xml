@@ -7,7 +7,7 @@
       path="device/motorola/capri"
       name="shipukacapri/android_device_motorola_capri"
       remote="github"
-      revision="erofs" />
+      revision="erofs-evo17" />
 
  <!-- Common device tree for sm6225 platform (your fork) -->
   <project
