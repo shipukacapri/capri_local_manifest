@@ -14,7 +14,7 @@
       path="device/motorola/sm6225-common"
       name="shipukacapri/android_device_motorola_sm6225-common"
       remote="github"
-      revision="erofs-evo17" />
+      revision="erofs" />
 
    <!-- Kernel tree (your fork) -->
   <project
@@ -39,7 +39,7 @@
   
 <!-- Motorola hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
-    name="shipukacapri/android_hardware_motorola"
+    name="LineageOS/android_hardware_motorola"
     path="hardware/motorola"
     remote="github"
     revision="lineage-23.2" />
