@@ -7,14 +7,14 @@
       path="device/motorola/capri"
       name="shipukacapri/android_device_motorola_capri"
       remote="github"
-      revision="erofs-evo17" />
+      revision="ascp" />
 
  <!-- Common device tree for sm6225 platform (your fork) -->
   <project
       path="device/motorola/sm6225-common"
       name="shipukacapri/android_device_motorola_sm6225-common"
       remote="github"
-      revision="erofs" />
+      revision="erofs-17" />
 
    <!-- Kernel tree (your fork) -->
   <project
@@ -45,11 +45,6 @@
     revision="lineage-23.2" />
 
    <!-- dolby for moto -->
-  <project
-    name="Evolution-X-Devices/hardware_dolby"
-    path="hardware/dolby"
-    remote="github"
-    revision="bka" />
   
 <!-- QCOM vendor SEPolicy (contains device/qcom/sepolicy_vndr/SEPolicy.mk) -->
 
