@@ -42,7 +42,7 @@
     name="shipukacapri/android_hardware_motorola"
     path="hardware/motorola"
     remote="github"
-    revision="cnb-test" />
+    revision="cnb" />
 
    <!-- dolby for moto -->
   
