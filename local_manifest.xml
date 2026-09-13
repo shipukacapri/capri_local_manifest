@@ -14,42 +14,42 @@
       path="device/motorola/capri"
       name="shipukacapri/android_device_motorola_capri"
       remote="github"
-      revision="voltage-17" />
+      revision="infinity-17" />
 
  <!-- Common device tree for sm6225 platform (your fork) -->
   <project
       path="device/motorola/sm6225-common"
       name="shipukacapri/android_device_motorola_sm6225-common"
       remote="github"
-      revision="volt-17" />
+      revision="dolby" />
 
    <!-- Kernel tree (your fork) -->
   <project
       path="kernel/motorola/sm6225"
-      name="shipukacapri/android_kernel_motorola_sm6225"
+      name="shipukacapri/kernel_motorola_sm6225"
       remote="github"
-      revision="erofs" />
+      revision="cnb" />
   
   <!-- Vendor blobs for capri (your fork) -->
   <project
       path="vendor/motorola/capri"
       name="TheMuppets/proprietary_vendor_motorola_capri"
       remote="github"
-      revision="lineage-23.2" />
+      revision="lineage-24.0" />
 
    <!-- Common vendor blobs (your fork) -->
   <project
       path="vendor/motorola/sm6225-common"
       name="TheMuppets/proprietary_vendor_motorola_sm6225-common"
       remote="github"
-      revision="lineage-23.2" />
+      revision="lineage-24.0" />
   
 <!-- Motorola hardware (contains hardware/motorola/sepolicy/qti/SEPolicy.mk) -->
 <project
-    name="shipukacapri/android_hardware_motorola"
+    name="LineageOS/android_hardware_motorola"
     path="hardware/motorola"
     remote="github"
-    revision="cnb" />
+    revision="lineage-24.0" />
 
    <!-- dolby for moto -->
   <project
