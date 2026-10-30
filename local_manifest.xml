@@ -49,7 +49,7 @@
 
    <!-- dolby for moto -->
   <project
-    name="Evolution-X-Devices/hardware_dolby"
+    name="shipukacapri/hardware_dolby"
     path="hardware/dolby"
     remote="github"
     revision="bka" />
